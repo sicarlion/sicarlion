@@ -6,8 +6,9 @@ I'm just a yet another developer. Currently, I'm on High School of 11th grade. (
 I start to code from I was 11. I was into Game Development. But now, I can actually be any as long as I.. well.. touch code!
 
 # Credits
-[Aiko Vircus](https://github.com/aikovircus) for becoming my best. friend. be there everywhere I go.
-Someone I know who like cheese and touhou.
+- [Aiko Vircus](https://github.com/aikovircus) for becoming my best. friend. be there everywhere I go.
+
+- Someone I know who like cheese and touhou.
 
 # Ranked On Mastery
 ### Programming Language
